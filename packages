@@ -1,0 +1,13 @@
+ack
+automake
+ccache
+clang-format
+fzf
+gcc
+git
+md5sha1sum
+openssl@1.1
+ruby-install
+tldr
+tmux
+zsh-autosuggestions
